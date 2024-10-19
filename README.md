@@ -1,16 +1,16 @@
-<h3 align="center">A Web Developer frontend from Brasil</h3>
+<h3 align="center">Desenvolvedor web frontend do Brasil</h3>
 
-- 🔭 I’m currently working on [Contabilidade e gerenciamento de dados](HTTPS://instagram.com/@atilon.dev40)
+- 🔭 visite eu trabalho principal [Contabilidade e gerenciamento de dados](HTTPS://instagram.com/@atilon.dev40)
 
-- 👨‍💻 All of my projects are available at [HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html](HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html)
+- 👨‍💻 visite meus projetos [HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html](HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html)
 
-- 📝 I regularly write articles on [HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html](HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html)
+- 📝 Saiba mais sobre minhas habilidades [HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html](HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html)
 
-- 💬 Ask me about **Java script,python,boostrap,node.js etc...**
+- 💬 minhas Skills **Java script,python,boostrap,node.js etc...**
 
-- 📫 How to reach me **jhonbest170@gmail.com**
+- 📫 Entre em contato por **jhonbest170@gmail.com**
 
-- 📄 Know about my experiences [Sou Web Developer e trabalho com desenvolvimento de sites e designer,além de rir um canal no Youtube ber sobre programação com conteúdos diversos.](Sou Web Developer e trabalho com desenvolvimento de sites e designer,além de rir um canal no Youtube ber sobre programação com conteúdos diversos.)
+- 📄 Quem eu sou? [Sou Web Developer e trabalho com desenvolvimento de sites e designer.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
