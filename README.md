@@ -1,10 +1,8 @@
-<h1 align="center">Front-End E Web Designer</h1>
-
-- 👨‍💻 visite meus projetos [HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html](HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html)
+<h1 align="center">Desenvolvedor Junior Fullstack</h1>
 
 - 📝 Saiba mais sobre minhas habilidades [HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html](HTTPS://pelapato.github.io/portifolioWork/front-end/dev40.html)
 
-- 💬 minhas Skills **Java script,python,boostrap,node.js,css,html**
+- 💬 minhas Skills **Java script,node.js,css,html**
 
 - 📫 Entre em contato por **jhonbest170@gmail.com**
 
