@@ -1,5 +1,5 @@
 
-
+<img src="Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner_linkedin"/>
 
   ![Status](./profile-night-rainbow.svg)
   
