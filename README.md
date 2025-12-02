@@ -1,41 +1,23 @@
 
-<img src="Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner_linkedin"/>
-
-  ![Status](./profile-night-rainbow.svg)
-  
-
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
+<img src="Black Minimal Motivation Quote LinkedIn Banner.png" alt="banner_linkedin" style="width:100%"/>
+ <div>
+   <h6>Seja bem vindo 👋</h6>
+   <h3>Atilon pereira</h3>
+   <p>Desenvolvedor Front-End | React, JavaScript, HTML, CSS | Crio interfaces modernas e responsivas</p>
+ </div>
  
-  <div align="center" >
+  <div>
+    <h5>Faça conexão comigo</h5>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" style="width:100px"/>
+</a>
+  <br />
+
+  </div>
+  <div>
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
 </a>
   <br />
 
   </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
- 
-
-
-
-
-
-
- 
-  
-  
-
-  
-
-
-
